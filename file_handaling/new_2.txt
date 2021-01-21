@@ -1,0 +1,9 @@
+hi:hellow
+what is your name:my name is nill
+where you live?:i am a bot
+ok:ok
+buy:buy
+i love you:i love you to
+how are you?:i am fine
+hey:hi
+hey nill:yeah tell me what i do for you
